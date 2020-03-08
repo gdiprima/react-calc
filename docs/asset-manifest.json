@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://gdiprima.github.io/react-calc/docs/static/css/main.35aafc2f.chunk.css",
-    "main.js": "https://gdiprima.github.io/react-calc/docs/static/js/main.920b95d2.chunk.js",
-    "main.js.map": "https://gdiprima.github.io/react-calc/docs/static/js/main.920b95d2.chunk.js.map",
-    "runtime-main.js": "https://gdiprima.github.io/react-calc/docs/static/js/runtime-main.6dd5f59c.js",
-    "runtime-main.js.map": "https://gdiprima.github.io/react-calc/docs/static/js/runtime-main.6dd5f59c.js.map",
-    "static/js/2.4b0425f6.chunk.js": "https://gdiprima.github.io/react-calc/docs/static/js/2.4b0425f6.chunk.js",
-    "static/js/2.4b0425f6.chunk.js.map": "https://gdiprima.github.io/react-calc/docs/static/js/2.4b0425f6.chunk.js.map",
-    "index.html": "https://gdiprima.github.io/react-calc/docs/index.html",
-    "precache-manifest.0436bf956fbf4b6ebb9190087004f78b.js": "https://gdiprima.github.io/react-calc/docs/precache-manifest.0436bf956fbf4b6ebb9190087004f78b.js",
-    "service-worker.js": "https://gdiprima.github.io/react-calc/docs/service-worker.js",
-    "static/css/main.35aafc2f.chunk.css.map": "https://gdiprima.github.io/react-calc/docs/static/css/main.35aafc2f.chunk.css.map",
-    "static/js/2.4b0425f6.chunk.js.LICENSE.txt": "https://gdiprima.github.io/react-calc/docs/static/js/2.4b0425f6.chunk.js.LICENSE.txt"
+    "main.css": "https://gdiprima.github.io/react-calc/static/css/main.35aafc2f.chunk.css",
+    "main.js": "https://gdiprima.github.io/react-calc/static/js/main.4fb593c8.chunk.js",
+    "main.js.map": "https://gdiprima.github.io/react-calc/static/js/main.4fb593c8.chunk.js.map",
+    "runtime-main.js": "https://gdiprima.github.io/react-calc/static/js/runtime-main.3536a012.js",
+    "runtime-main.js.map": "https://gdiprima.github.io/react-calc/static/js/runtime-main.3536a012.js.map",
+    "static/js/2.4b0425f6.chunk.js": "https://gdiprima.github.io/react-calc/static/js/2.4b0425f6.chunk.js",
+    "static/js/2.4b0425f6.chunk.js.map": "https://gdiprima.github.io/react-calc/static/js/2.4b0425f6.chunk.js.map",
+    "index.html": "https://gdiprima.github.io/react-calc/index.html",
+    "precache-manifest.57c97fa8b1bb0b6691057e15ac6cf530.js": "https://gdiprima.github.io/react-calc/precache-manifest.57c97fa8b1bb0b6691057e15ac6cf530.js",
+    "service-worker.js": "https://gdiprima.github.io/react-calc/service-worker.js",
+    "static/css/main.35aafc2f.chunk.css.map": "https://gdiprima.github.io/react-calc/static/css/main.35aafc2f.chunk.css.map",
+    "static/js/2.4b0425f6.chunk.js.LICENSE.txt": "https://gdiprima.github.io/react-calc/static/js/2.4b0425f6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6dd5f59c.js",
+    "static/js/runtime-main.3536a012.js",
     "static/js/2.4b0425f6.chunk.js",
     "static/css/main.35aafc2f.chunk.css",
-    "static/js/main.920b95d2.chunk.js"
+    "static/js/main.4fb593c8.chunk.js"
   ]
 }
